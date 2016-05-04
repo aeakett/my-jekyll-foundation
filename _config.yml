@@ -3,4 +3,4 @@ title: Title Goes Here
 baseurl: "/tgh" # the subpath of your site, e.g. /blog/
 url: "http://super-awesome.com" # the base hostname & protocol for your site
 destination: dist
-
+exclude: [Gruntfile.js, README.md, node_modules, package.json]
